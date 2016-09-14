@@ -1,4 +1,6 @@
-Source-Code-Inspection [![Build Status](https://travis-ci.org/Prof-Calebe/Source-Code-Inspection.svg?branch=master)](https://travis-ci.org/Prof-Calebe/Source-Code-Inspection)
-======================
+Fork de TicketMachine
 
-Link para o Travis-CI: https://travis-ci.org/Prof-Calebe/Source-Code-Inspection
+Nome: Mauricio D Angelo Fernandes
+TIA: 31302378
+
+Wiki: https://github.com/RunoFawkes/Source-Code-Inspection/wiki 
