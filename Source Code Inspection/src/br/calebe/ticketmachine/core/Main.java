@@ -6,6 +6,7 @@ public class Main {
     public static void main(String args[]){
         MachineOperations io = new JavaConsoleOperations();
         TicketMachine machine = new TicketMachine();
+        
         io.inicializar(machine);
     }
 }
