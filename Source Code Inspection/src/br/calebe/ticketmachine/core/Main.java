@@ -1,10 +1,11 @@
 package br.calebe.ticketmachine.core;
 
+import br.calebe.ticketmachine.io.*;
+
 public class Main {
     public static void main(String args[]){
-        System.out.println("Hello World from TicketMachine!");
-        
-        int preco = 4;
-        TicketMachine machine = new TicketMachine(preco);
+        MachineOperations io = new JavaConsoleOperations();
+        TicketMachine machine = new TicketMachine();
+        io.inicializar(machine);
     }
 }

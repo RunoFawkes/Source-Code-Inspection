@@ -1,8 +1,9 @@
-package br.calebe.ticketmachine.core;
+package br.calebe.ticketmachine.model;
 
+import br.calebe.ticketmachine.core.PapelMoeda;
 import java.util.Iterator;
 
-class Troco {
+public class Troco {
 
     protected PapelMoeda[] papeisMoeda;
 
